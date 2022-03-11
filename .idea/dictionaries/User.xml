@@ -2,6 +2,12 @@
   <dictionary name="User">
     <words>
       <w>curren</w>
+      <w>denomerator</w>
+      <w>newden</w>
+      <w>newdenomerator</w>
+      <w>newnum</w>
+      <w>newnumerator</w>
+      <w>otherfraction</w>
     </words>
   </dictionary>
 </component>

@@ -20,6 +20,7 @@ class Jack(Person):
 
 
 jack = Jack("Jack", "Jeckerson", 707647358, 100)
+# jack.none()
 
 
 class Vito(Jack):
@@ -32,12 +33,12 @@ class Vito(Jack):
         print(f"{self.first_name} {self.phone_number} balance {self._curren_balance}")
 
     def none(self):
+
         vito = jack.balance - self._curren_balance
         f = self.balance + vito
         print(f)
 
 
-jack.none()
-
 vito = Vito("Vito", "Vitonson", 998654276, 90)
 vito.none()
+
