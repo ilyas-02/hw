@@ -26,4 +26,3 @@ while True:
         break
     t.hideturtle()
 
-
