@@ -1,5 +1,5 @@
 def get_list() -> list:
-    return list(range(0, 1000000000, 2))
+    return list(range(0, 100000000, 2))
 
 
 class Solution:
