@@ -23,3 +23,10 @@ class Solution:
 
 print(Solution().find_target(get_list(), 22222))
 
+# git
+# git status
+# git add .
+# git status
+# git commit -m 'HW-6'
+# git status
+# git push origin main
