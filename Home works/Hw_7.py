@@ -3,4 +3,3 @@ def polin(s):
 
 
 print(polin('121'))
-
